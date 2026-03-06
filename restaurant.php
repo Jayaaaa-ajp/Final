@@ -5,6 +5,9 @@
 <title>Restaurant</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
+h4{
+    color:white;
+}
 body{
     background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
     color:white;
